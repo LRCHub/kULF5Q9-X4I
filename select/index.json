@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "FRIDAY KIDS CHINA TOWN",
+  "base_artist": "にしな",
+  "createdAt": "2026-02-19T08:05:04.125842Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "FRIDAY KIDS CHINA TOWN",
+      "artist": "nishina",
+      "has_synced": true,
+      "path": "select/01_FRIDAY_KIDS_CHINA_TOWN_nishina.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "FRIDAY KIDS CHINA TOWN",
+      "artist": "にしな",
+      "has_synced": false,
+      "path": "select/02_FRIDAY_KIDS_CHINA_TOWN_にしな.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "FRIDAY KIDS CHINA TOWN",
+      "artist": "にしな",
+      "has_synced": false,
+      "path": "select/pl_01_FRIDAY_KIDS_CHINA_TOWN_にしな.txt"
+    }
+  ]
+}
